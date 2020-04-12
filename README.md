@@ -2,10 +2,15 @@
 this machine is made using c++.
 
 This machine has 5 main fucntions:
+
 1)Creating a new account.
+
 2)Depositing an amount into your account.
+
 3)Withdrawing an amount from your account.
+
 4)Transfering an amount from your account.
+
 5)Checking the balance in your account.
 
 The atm machine provides security to each and every user as any regular atm machine.
